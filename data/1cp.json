@@ -1,0 +1,30 @@
+{
+    "id": "1cp", "url": "https://drive.google.com/drive/folders/1W7-1Um8ITykNWMqW2s_rN7fOlNuUjAju?usp=drive_link",
+    "s1": {
+        "url": "https://drive.google.com/drive/folders/1-YzYZqpRuHkezZAMOQ2hB2RW2dn-TaK3?usp=drive_link",
+        "modules": [
+            {"id": "1cp_s1_m1", "name": "Fundamental Data Structures and Algorithms", "url": "https://drive.google.com/drive/folders/1rGN7dngLUc9S_69o-WspI0uULAOvoCSj?usp=drive_link"},
+            {"id": "1cp_s1_m2", "name": "Computer Architecture 1", "url": "https://drive.google.com/drive/folders/1X1Xieb_TC1P9odRZjABk_ZwQ5QFOWgv3?usp=drive_link"},
+            {"id": "1cp_s1_m3", "name": "Mathematical Analysis 1", "url": "https://drive.google.com/drive/folders/1uykGtZHZhqAro95wRHBE3wCXin6F_QIC?usp=drive_link"},
+            {"id": "1cp_s1_m4", "name": "Basic Abstract Algebra", "url": "https://drive.google.com/drive/folders/1TN9BjxDwyX9m3ubAKS5XRa3lk0lTHIJl?usp=drive_link"},
+            {"id": "1cp_s1_m5", "name": "Digital & AI Literacy", "url": "https://drive.google.com/drive/folders/1fc6ES40IGMgtz2QCrJheKYHMlb1LXgj0?usp=drive_link"},
+            {"id": "1cp_s1_m6", "name": "General Electronics", "url": "https://drive.google.com/drive/folders/1Wv8oUWDNv-4Ue-9WQ7nLbS30eWAQ_8rZ?usp=drive_link"},
+            {"id": "1cp_s1_m7", "name": "English Communication", "url": "https://drive.google.com/drive/folders/1ox7pu6BTYkYQbsSP06SWel0LwlcZx4f7?usp=drive_link"},
+            {"id": "1cp_s1_m8", "name": "Linux System Foundations", "url": "https://drive.google.com/drive/folders/1b3MuTIISDqJ3bSNOt6HpmFXUZJk03QY5?usp=drive_link"}
+        ]
+    },
+    "s2": {
+        "url": "#",
+        "modules": [
+            {"id": "1cp_s2_m1", "name": "Dynamic Data Structures and Algorithms", "url": "#"},
+            {"id": "1cp_s2_m2", "name": "Mathematical Analysis 2", "url": "#"},
+            {"id": "1cp_s2_m3", "name": "Digital Electronics 1", "url": "#"},
+            {"id": "1cp_s2_m4", "name": "Linear Algebra 1", "url": "#"},
+            {"id": "1cp_s2_m5", "name": "Assembly language", "url": "#"},
+            {"id": "1cp_s2_m6", "name": "Information Systems Fundamentals", "url": "#"},
+            {"id": "1cp_s2_m7", "name": "English for Engineers", "url": "#"},
+            {"id": "1cp_s2_m8", "name": "Digital Economy", "url": "#"}
+
+        ]
+    }
+}
